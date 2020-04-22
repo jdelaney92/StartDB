@@ -1,4 +1,5 @@
-﻿using System;
+﻿using StartDB.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -25,6 +26,12 @@ namespace StartDB.Controllers
             ViewBag.Message = "Your contact page.";
 
             return View();
+        }
+
+        [HttpPost]
+        public ActionResult Login(LoginModel loginModel)
+        {
+            return new JsonResult();
         }
     }
 }
