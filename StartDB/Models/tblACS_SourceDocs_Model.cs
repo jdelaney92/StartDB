@@ -5,7 +5,10 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblACS_SourceDocs_Model
+    public class TblACS_SourceDocs_Model
     {
+        public int ID { get; set; }
+        public int ARID { get; set; }
+        public string DocName { get; set; }
     }
 }

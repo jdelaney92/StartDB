@@ -5,7 +5,10 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblACS_Comments_Model
+    public class TblACS_Comments_Model
     {
+        public int ID { get; set; }
+        public int ARID { get; set; }
+        public string Comment { get; set; }
     }
 }

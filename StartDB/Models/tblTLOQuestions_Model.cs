@@ -5,7 +5,7 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblLims_ElemCap
+    public class tblTLOQuestions_Model
     {
     }
 }

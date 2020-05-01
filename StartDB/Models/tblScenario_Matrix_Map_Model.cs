@@ -5,9 +5,7 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class TblAP_Groups_Model
+    public class tblScenario_Matrix_Map_Model
     {
-        public int ID { get; set; }
-        public string Group { get; set; }
     }
 }

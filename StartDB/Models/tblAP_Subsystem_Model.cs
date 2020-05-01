@@ -5,7 +5,10 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblAP_Subsystem_Model
+    public class TblAP_Subsystem_Model
     {
+        public int Link_ID { get; set; }
+        public int AP_ID { get; set; }
+        public int Subsystem_ID { get; set; }
     }
 }
