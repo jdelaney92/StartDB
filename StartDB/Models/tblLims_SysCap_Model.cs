@@ -5,7 +5,7 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblLims_SysCap_Model
+    public class TblLims_SysCap_Model
     {
     }
 }

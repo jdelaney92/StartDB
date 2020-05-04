@@ -5,7 +5,7 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblLims_Element_Model
+    public class TblLims_Element_Model
     {
     }
 }

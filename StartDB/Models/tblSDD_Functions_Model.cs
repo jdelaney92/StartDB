@@ -5,7 +5,7 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblSDD_Functions_Model
+    public class TblSDD_Functions_Model
     {
     }
 }

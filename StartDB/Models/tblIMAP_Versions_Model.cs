@@ -5,7 +5,7 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblIMAP_Versions_Model
+    public class TblIMAP_Versions_Model
     {
     }
 }

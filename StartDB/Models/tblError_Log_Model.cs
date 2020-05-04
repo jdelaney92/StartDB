@@ -5,7 +5,7 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblError_Log_Model
+    public class TblError_Log_Model
     {
     }
 }

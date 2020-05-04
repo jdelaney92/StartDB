@@ -5,7 +5,7 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblCAC_Model
+    public class TblCAC_Model
     {
     }
 }

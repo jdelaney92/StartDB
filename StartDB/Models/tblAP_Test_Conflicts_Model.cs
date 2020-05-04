@@ -5,7 +5,12 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblAP_Test_Conflicts_Model
+    public class TblAP_Test_Conflicts_Model
     {
+        public int Conflict_ID { get; set; }
+        public int Item_ID { get; set; }
+        public string Item_Type { get; set; }
+        public int Test_ID { get; set; }
+        public string Change_Type { get; set; }
     }
 }

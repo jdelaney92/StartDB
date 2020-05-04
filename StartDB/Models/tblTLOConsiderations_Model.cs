@@ -5,7 +5,7 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblTLOConsiderations_Model
+    public class TblTLOConsiderations_Model
     {
     }
 }

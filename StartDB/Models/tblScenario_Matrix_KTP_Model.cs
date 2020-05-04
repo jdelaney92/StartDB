@@ -5,7 +5,7 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblScenario_Matrix_KTP_Model
+    public class TblScenario_Matrix_KTP_Model
     {
     }
 }

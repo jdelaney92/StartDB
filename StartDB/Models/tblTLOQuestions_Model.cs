@@ -5,7 +5,7 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblTLOQuestions_Model
+    public class TblTLOQuestions_Model
     {
     }
 }

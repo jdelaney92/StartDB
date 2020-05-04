@@ -5,7 +5,7 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblSubsystems_Model
+    public class TblSubsystems_Model
     {
     }
 }

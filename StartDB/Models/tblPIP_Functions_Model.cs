@@ -5,7 +5,7 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblPIP_Functions_Model
+    public class TblPIP_Functions_Model
     {
     }
 }

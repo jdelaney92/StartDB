@@ -5,7 +5,7 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblinc_Model
+    public class Tblinc_Model
     {
     }
 }

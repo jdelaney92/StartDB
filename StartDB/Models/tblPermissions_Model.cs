@@ -5,7 +5,7 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblPermissions_Model
+    public class TblPermissions_Model
     {
     }
 }

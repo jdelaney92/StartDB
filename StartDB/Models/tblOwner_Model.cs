@@ -5,7 +5,7 @@ using System.Web;
 
 namespace StartDB.Models
 {
-    public class tblOwner_Model
+    public class TblOwner_Model
     {
     }
 }
